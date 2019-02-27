@@ -1,0 +1,442 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="474.293" height="320.769" viewBox="0 0 12549 8487" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round">
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M5952 3956h246v220h-246z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M254 5615h770v237H254z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M559 7266h432v229H559z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3352 3676h28v180h-28z"/>
+    <path d="M3370 3855h9v-179h-27v179z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6045 3659h27v181h-27z"/>
+    <path d="M6053 3838h18v-179h-26v179z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M364 1932h178v229H364z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M3251 3914h838v288h-838z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M1304 764h542v305h-542z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1117 3642h10865v44H1117z"/>
+    <path d="M11981 3660v-18H1117v43h10864z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M11811 3515h349v298h-349z"/>
+    <path d="M12159 3660l-348-145 16 34v17l9 25v17l8 17v77l-8 17v17l-9 26v17l-16 33z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M10262 3236h1380v381h-1380z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M7341 3956h339v220h-339z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3191 1466h5548v2195H3191z"/>
+    <path d="M8738 1466l-135 26-119 25-118 42-110 43-204 118-93 76-94 69-93 85-93 76-93 85-93 93-102 93-110 85-110 93-119 101-127 93-135 94-153 93-152 84-178 85-186 85-203 76-220 76-237 76-263 60-271 59-305 51-321 42-339 34-381 34-390 8v34l390-8 381-34 339-26 330-50 296-51 280-51 262-68 237-68 220-76 212-84 186-85 178-85 161-93 152-93 136-93 127-93 118-93 220-187 102-93 93-93 93-85 281-228 93-69 93-59 203-102 119-42 118-26 127-25z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1100 517h54v3144h-54z"/>
+    <path d="M1127 518h-27v3142h52V518z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M973 340h307v349H973z"/>
+    <path d="M1126 340L973 688h17l17-8 25-9 17-8h17l17-9h76l27 9h17l34 17 25 8h17z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1117 7875h10865v53H1117z"/>
+    <path d="M11981 7901v-26H1117v52h10864z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M11811 7748h349v307h-349z"/>
+    <path d="M12159 7902l-348-154 8 26 8 17v17l9 17v25l8 17v69l-8 25v17l-9 17v17l-8 25-8 17z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M10262 7470h1380v389h-1380z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M1287 4997h669v305h-669z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1100 4751h54v3152h-54z"/>
+    <path d="M1127 4751h-27v3151h52V4751z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M973 4573h307v358H973z"/>
+    <path d="M1126 4573l-153 357 34-17 25-8h17l17-9h120l17 9h17l17 8 25 9 17 8z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M0 0h12532v37H0z"/>
+    <path d="M33 19L16 36h12515V1H16L0 19 16 1H0v18z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M0 18h35v8469H0z"/>
+    <path d="M16 8452l18 17V18H0v8451l16 17-16-17v17h16z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M16 8451h12533v36H16z"/>
+    <path d="M12514 8469l17-18H16v35h12515l17-17-17 17h17v-17z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M12513 1h36v8470h-36z"/>
+    <path d="M12531 35l-18-17v8451h35V18l-17-17 17 17V1h-17z"/>
+  </g>
+  <g class="Graphic">
+    <path class="BoundingBox" fill="none" d="M110 8147h931v262H110z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 3828h36v28h-36z"/>
+    <path d="M7484 3855h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 3642h36v36h-36z"/>
+    <path d="M7484 3677h35v-35h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 3463h36v29h-36z"/>
+    <path d="M7484 3491h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 3278h36v36h-36z"/>
+    <path d="M7484 3313h35v-35h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 3092h36v36h-36z"/>
+    <path d="M7484 3127h35v-35h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 2914h36v27h-36z"/>
+    <path d="M7484 2940h35v-26h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 2727h36v37h-36z"/>
+    <path d="M7484 2763h35v-35h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 2550h36v27h-36z"/>
+    <path d="M7484 2576h35v-26h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 2364h36v36h-36z"/>
+    <path d="M7484 2399h35v-35h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7459 2211h27v28h-27z"/>
+    <path d="M7459 2238h26v-27h-26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7272 2211h36v28h-36z"/>
+    <path d="M7272 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7095 2211h28v28h-28z"/>
+    <path d="M7095 2238h26v-27h-26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6908 2211h36v28h-36z"/>
+    <path d="M6908 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6721 2211h37v28h-37z"/>
+    <path d="M6722 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6543 2211h29v28h-29z"/>
+    <path d="M6544 2238h27v-27h-27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6358 2211h36v28h-36z"/>
+    <path d="M6358 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6172 2211h36v28h-36z"/>
+    <path d="M6172 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M5994 2211h27v28h-27z"/>
+    <path d="M5994 2238h26v-27h-26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M5808 2211h36v28h-36z"/>
+    <path d="M5808 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M5630 2211h27v28h-27z"/>
+    <path d="M5630 2238h26v-27h-26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M5444 2211h35v28h-35z"/>
+    <path d="M5444 2238h34v-27h-34z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M5257 2211h36v28h-36z"/>
+    <path d="M5257 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M5080 2211h28v28h-28z"/>
+    <path d="M5080 2238h26v-27h-26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M4893 2211h36v28h-36z"/>
+    <path d="M4893 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M4707 2211h36v28h-36z"/>
+    <path d="M4707 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M4528 2211h29v28h-29z"/>
+    <path d="M4529 2238h27v-27h-27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M4342 2211h38v28h-38z"/>
+    <path d="M4343 2238h36v-27h-36z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M4165 2211h28v28h-28z"/>
+    <path d="M4165 2238h27v-27h-27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3978 2211h37v28h-37z"/>
+    <path d="M3979 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3793 2211h35v28h-35z"/>
+    <path d="M3793 2238h34v-27h-34z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3615 2211h27v28h-27z"/>
+    <path d="M3615 2238h26v-27h-26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3429 2211h35v28h-35z"/>
+    <path d="M3429 2238h34v-27h-34z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3242 2211h36v28h-36z"/>
+    <path d="M3242 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3064 2211h28v28h-28z"/>
+    <path d="M3064 2238h27v-27h-27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M2878 2211h36v28h-36z"/>
+    <path d="M2878 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M2700 2211h28v28h-28z"/>
+    <path d="M2700 2238h27v-27h-27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M2514 2211h36v28h-36z"/>
+    <path d="M2514 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M2328 2211h36v28h-36z"/>
+    <path d="M2328 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M2150 2211h27v28h-27z"/>
+    <path d="M2150 2238h26v-27h-26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1964 2211h36v28h-36z"/>
+    <path d="M1964 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1778 2211h35v28h-35z"/>
+    <path d="M1778 2238h34v-27h-34z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1600 2211h27v28h-27z"/>
+    <path d="M1600 2238h26v-27h-26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1413 2211h36v28h-36z"/>
+    <path d="M1413 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1236 2211h27v28h-27z"/>
+    <path d="M1236 2238h26v-27h-26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1049 2211h36v28h-36z"/>
+    <path d="M1049 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M863 2211h36v28h-36z"/>
+    <path d="M863 2238h35v-27h-35z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M684 2211h29v28h-29z"/>
+    <path d="M685 2238h27v-27h-27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M9059 560h44v45h-44z"/>
+    <path d="M9076 604l-17-17 17-27 26 27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M8932 687h44v45h-44z"/>
+    <path d="M8949 731l-17-17 17-27 26 27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M8805 822h44v45h-44z"/>
+    <path d="M8830 866l-25-25 25-18 18 18z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M8686 950h36v44h-36z"/>
+    <path d="M8704 993l-18-25 18-18 17 18z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M8559 1077h45v44h-45z"/>
+    <path d="M8576 1120l-17-17 17-26 27 26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M8432 1212h45v36h-45z"/>
+    <path d="M8458 1247l-26-17 26-18 18 18z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M8305 1339h45v45h-45z"/>
+    <path d="M8331 1383l-26-27 26-17 18 17z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M8178 1466h46v46h-46z"/>
+    <path d="M8204 1510l-26-18 26-26 18 26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M8051 1593h45v45h-45z"/>
+    <path d="M8068 1637l-17-18 17-26 27 26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7924 1729h45v44h-45z"/>
+    <path d="M7941 1772l-17-26 17-17 27 17z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7797 1856h45v44h-45z"/>
+    <path d="M7814 1899l-17-26 17-17 27 17z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7670 1983h45v44h-45z"/>
+    <path d="M7687 2026l-17-17 17-26 27 26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7543 2118h46v36h-46z"/>
+    <path d="M7560 2153l-17-17 17-18 27 18z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7416 2245h45v44h-45z"/>
+    <path d="M7433 2288l-17-25 17-18 27 18z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7289 2372h45v44h-45z"/>
+    <path d="M7306 2415l-17-16 17-27 27 27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7162 2499h45v44h-45z"/>
+    <path d="M7179 2542l-17-16 17-27 27 27z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7035 2635h45v44h-45z"/>
+    <path d="M7052 2678l-17-26 17-17 27 17z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6908 2762h45v44h-45z"/>
+    <path d="M6925 2805l-17-18 17-25 27 25z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6781 2896h46v45h-46z"/>
+    <path d="M6798 2940l-17-26 17-17 27 17z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6654 3033h45v35h-45z"/>
+    <path d="M6671 3067l-17-17 17-17 27 17z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6527 3160h45v44h-45z"/>
+    <path d="M6544 3203l-17-17 17-26 27 26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6400 3295h36v44h-36z"/>
+    <path d="M6417 3338l-17-25 17-18 18 18z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6265 3430h44v45h-44z"/>
+    <path d="M6291 3474l-26-26 26-18 17 18z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6138 3566h44v44h-44z"/>
+    <path d="M6156 3609l-18-18 18-25 25 17z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M6028 3701h10v45h-10z"/>
+    <path d="M6028 3745h9v-44h-9z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M5867 3837h54v44h-54z"/>
+    <path d="M5892 3880l-25-17 25-26 27 26z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyLineShape">
+    <path class="BoundingBox" fill="none" d="M7421 2164h120v129h-120z"/>
+    <path d="M7484 2169l35 17 17 17v51l-35 34h-42l-34-34v-51l17-17 17-9z" fill="none" stroke="#000" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M7484 3642h27v180h-27z"/>
+    <path d="M7493 3821h17v-179h-26v179z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M1126 7376h2228v27H1126z"/>
+    <path d="M3353 7393v-17H1126v26h2227z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3335 5715h6259v29H3335z"/>
+    <path d="M9593 5734v-18H3335v27h6258z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3302 5903h35v1475h-35z"/>
+    <path d="M3318 5903h-16v1474h34V5903z"/>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+    <path class="BoundingBox" fill="none" d="M3225 5750h189v163h-189z"/>
+    <path d="M3225 5912l94-162 94 162z"/>
+  </g>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="2863.03" y="4192.456" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan x="2863.03" y="4192.456" style="-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="423.333">0 seg</tspan>
+  </text>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="5851.907" y="4271.111" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan x="5851.907" y="4271.111" style="-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="423.333">tu</tspan>
+  </text>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="7199.421" y="4239.157" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan x="7199.421" y="4239.157" style="-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="423.333">tm</tspan>
+  </text>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="125.847" y="2100.242" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan x="125.847" y="2100.242" style="-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="423.333">PVm</tspan>
+  </text>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="1337.129" y="841.767" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan x="1337.129" y="841.767">Pv</tspan>
+  </text>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="9989.142" y="3107.022" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707"/>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="9595.868" y="3516.026" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan x="9595.868" y="3516.026">Tiempo</tspan>
+  </text>
+  <text y="7684.723" x="9611.599" style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan y="7684.723" x="9611.599">Tiempo</tspan>
+  </text>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="1227.013" y="5340.815" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan x="1227.013" y="5340.815">Out</tspan>
+  </text>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="1840.519" y="5859.935" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan x="1840.519" y="5859.935" style="-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="423.333">100%</tspan>
+  </text>
+  <text style="line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="298.888" y="7464.49" font-weight="400" font-size="564.444" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="746.707">
+    <tspan x="298.888" y="7464.49" style="-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-size="423.333">0%</tspan>
+  </text>
+</svg>
